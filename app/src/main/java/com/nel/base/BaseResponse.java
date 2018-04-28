@@ -7,4 +7,8 @@ package com.nel.base;
 public abstract class BaseResponse {
     protected int code;
     public abstract boolean isSuccess();
+
+    public int getCode() {
+        return code;
+    }
 }

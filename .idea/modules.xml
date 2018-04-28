@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NetFrameWork.iml" filepath="$PROJECT_DIR$/NetFrameWork.iml" />
+      <module fileurl="file://G:\mygit\NetFrameWork\NetFrameWork.iml" filepath="G:\mygit\NetFrameWork\NetFrameWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\mygit\NetFrameWork\app\app.iml" filepath="G:\mygit\NetFrameWork\app\app.iml" />
     </modules>
   </component>
 </project>

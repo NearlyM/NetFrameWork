@@ -7,5 +7,9 @@ import okhttp3.OkHttpClient;
  */
 
 public interface CustomOkhttpClientInterface {
+    int TIMEOUT_CONNECT = 6000;
+    int TIMEOUT_READ = 6000;
+    int TIMEOUT_WRITE = 6000;
+
     OkHttpClient newOkHttpClient();
 }
